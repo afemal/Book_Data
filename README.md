@@ -2,7 +2,7 @@
 ## Data Wrangling 
 
 ### Introduction
-The goal of this project was to collect data from a variety of sources, prepare the data, merge and store the datasets into a database, and create visualizations.  
+The goal of this project was to collect data from a variety of sources, prepare the data, merge and store the datasets into a database, and create visualizations of the data.
 
 ### Tools
 * Python and Jupyter Notebook 
@@ -29,4 +29,4 @@ Additional data obtained from Open Library API: https://openlibrary.org/dev/docs
   * kagglesource.ipynb: Data cleaning and preparation of Goodreads-books CSV file
   * wikipediasource.ipynb: Data cleaning and preparation of the best-selling books from Wikipedia
   * APIsource.ipynb: Data cleaning and preparation of additional book data from Open Library API
-* Database and Visualizations
+* Database Merging and Visualizations
