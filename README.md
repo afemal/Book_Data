@@ -1,5 +1,5 @@
 # Book Data
-## Data Wrangling 
+## Data Wrangling Project
 
 ### Introduction
 The goal of this project was to collect data from a variety of sources, prepare the data, merge and store the datasets into a database, and create visualizations of the data.
