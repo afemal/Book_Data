@@ -13,9 +13,7 @@ The goal of this project was to collect data from a variety of sources, prepare 
   * seaborn
   * requests
   * json
-  * re
-  * urllib
-  * PIL
+  * datetime
   * sqlite3
 
 ### Data
